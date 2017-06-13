@@ -1,4 +1,4 @@
-#Van Gogh 2048
+# Van Gogh 2048
 
 This is a custom version of Gabriele Cirulli's [original 2048](http://gabrielecirulli.github.io/2048/) to tinker with. You can play the the game [here](http://samurairanderson.github.io/Van-Gogh-2048), or try out Gabriele's version, but be careful... it's addictive.
 
